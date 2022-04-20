@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Notranja zaluzija",
+		"Image": "https://raw.githubusercontent.com/poretga99/DekorCV-Resources/main/Images/notranja_zaluzija.png"
+    },
+    {
+        "name": "Plise zavesa",
+		"Image": "https://raw.githubusercontent.com/poretga99/DekorCV-Resources/main/Images/plise_zavesa.png"
+    },
+    {
+        "name": "Zunanja zaluzija",
+		"Image": "https://raw.githubusercontent.com/poretga99/DekorCV-Resources/main/Images/zunanja_zaluzija.png"
+    }
+]
